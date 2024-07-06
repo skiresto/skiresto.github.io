@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://skiresto.github.io/sitemap
+Sitemap: https://skiresto.github.io/app/sitemap
+Sitemap: https://skiresto.github.io/assets/sitemap
+Sitemap: https://skiresto.github.io/css/sitemap
+Sitemap: https://skiresto.github.io/includes/sitemap
+Sitemap: https://skiresto.github.io/item/sitemap
+Sitemap: https://skiresto.github.io/src/sitemap
